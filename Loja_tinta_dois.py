@@ -23,3 +23,5 @@ if galao_litros_pintar%galao_tinta !=0:
     galoes_necessarios+=1
 valor_final_galao=galoes_necessarios*25
 print('Se for apenas galões, precisará comprar',galoes_necessarios,'galões e custará R$%.2f'%valor_final_galao)
+
+# Mistura
